@@ -39,13 +39,13 @@
 ## Screenshots
 
 ### Landing Page
-![Landing Page](https://raw.githubusercontent.com/gseals/youtube-clone/master/screenshots/Landing%20Page.png)
+![Landing Page](https://raw.githubusercontent.com/gseals/basic-tetris/master/screenshots/LandingPage.png)
 
 ### Game Begin
-![Game Begin](https://raw.githubusercontent.com/gseals/youtube-clone/master/screenshots/Landing%20Page.png)
+![Game Begin](https://raw.githubusercontent.com/gseals/basic-tetris/master/screenshots/GameBegin.png)
 
 ### Game End
-![Game End](https://raw.githubusercontent.com/gseals/youtube-clone/master/screenshots/Landing%20Page.png)
+![Game End](https://raw.githubusercontent.com/gseals/basic-tetris/master/screenshots/GameEnd.png)
 
 ## How to Run
 
