@@ -4,7 +4,7 @@
 
 ## Description
 
-* This is a Tetris-style game built using HTML, CSS, and JavaScript
+* This is a Tetris-style game built using HTML, CSS, and JavaScript.
 
 ## Demo Link
 
